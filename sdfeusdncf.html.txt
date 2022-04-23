@@ -1,5 +1,14 @@
-<head>
-  <meta charset="utf-8">
-  <title>Styles Conference</title>
-  <link rel="stylesheet" href="assets/stylesheets/main.css">
-</head>
+<html>
+ <голова>
+  <link rel="stylesheet" href="style.css">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Пример веб-страницы</title>
+ </голова>
+ <тело>
+  <h1>Заголовок</ч1>
+  <!-- Комментарий -->
+  <p>Первый абзац. </с>
+  <п>Второй абзац. </с>
+  <a href="">Перейти на страницу</a> 
+   </тело>
+</html>
