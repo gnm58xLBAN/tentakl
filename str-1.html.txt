@@ -1,1 +1,48 @@
-заскамлен арабом хааххпахпахпхапхахпхахпхап
+<html>
+ <ссылка rel="stylesheet" href="style.css_1"> 
+<html>
+<head>
+</head>
+<body>  
+  <p>
+   <a href="Str-1.html">Перейти на страницу</a> 
+  <p>
+<d id="container">
+ <div id="header">
+   <h3>Impakt</h3>
+  <p>
+  <h3> Impakt,<b>один из лучших читов для анархо серверов.Из минусов лиш то, что надо устанавливать свой клиент, да и не способен он противостоять  даже простым ати читам. Поэтому играть можно на нём только на анархии. Из плюсов, огромный функцианал. </b>
+    <p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/Fucjjr9GxYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <p>
+      <a href="https://disk.yandex.ru/d/CWu5_-e00M5r_g" download="">
+        <button><b>Скачать файл</b></button>
+</a>
+
+    </div id="header">
+   
+   
+   <d id="container">
+ <div id="header">
+   <h>Salhack </h>
+  <p>
+<h3> Salhack - самый худший чит клиент, говорится на официальном сайте. На самом же деле этот клиент очень хороший, имеет много функций и встроенную Schematic'у. Кликай на новость, если заинтересован.
+
+Как и любой другой чит клиент имеет целую кучу разных функций для PVP режима, разные эксплоиты для попыток сломать сервер, разные полезные функции которые можно использовать и в одиночной игре, хаки для перемещения, подсветка мобов, траекторий полетов и других полезных элементов.
+
+Автор клиента Ionar2. Клиент имеет открытый исходный код, так-что можете не беспокоиться насчёт вирусов, мод разработан для работы через Forge как мод, это достаточно удобно. Но как и для любого чит-клиента, будут ли работать чит функции на сервере зависит в первую очередь от анти-чита сервера, если сервер популярный и качественный, то он не позволит вам использовать самые имбовые чит функции, тем не менее, даже без них в клиенте полно других функций дающих преимущество.</h3>
+    <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n7N0FvwyRLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <p>
+      <a href="https://disk.yandex.ru/d/CWu5_-e00M5r_g" download="">
+        <button><b>Скачать файл</b></button>
+</a>
+   
+   
+   
+     
+
+
+ 
+   </тело>
+</html>
