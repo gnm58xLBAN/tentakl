@@ -1,4 +1,5 @@
 <html>
+ <ссылка rel="stylesheet" href="css.html_2">
 <head>
 </head>
 <body>
