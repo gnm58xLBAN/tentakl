@@ -1,5 +1,5 @@
 <html>
- <ссылка rel="stylesheet" href="style.css_1"> 
+ <ссылка rel="stylesheet" href="стиль.css_1"> 
 <html>
 <head>
 </head>
