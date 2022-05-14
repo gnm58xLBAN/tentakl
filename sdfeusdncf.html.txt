@@ -1,14 +1,3 @@
-<html>
- <голова>
-  <link rel="stylesheet" href="style.css">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title>Пример веб-страницы</title>
- </голова>
- <тело>
-  <h1>Заголовок</ч1>
-  <!-- Комментарий -->
-  <p>Первый абзац. </с>
-  <п>Второй абзац. </с>
-  <a href="Str-1.html">Перейти на страницу</a> 
-   </тело>
-</html>
+
+  <a href="Str-1.html"><b>Перейти на страницу</b></a> 
+ 
