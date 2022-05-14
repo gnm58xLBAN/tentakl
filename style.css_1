@@ -1,0 +1,9 @@
+#header{
+   margin-top: 2px;
+ text-align: center;
+  padding: 5px;
+ background: #CCCCCC;
+ height: 500px;
+}
+
+ 
